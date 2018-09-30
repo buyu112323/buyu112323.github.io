@@ -3,5 +3,10 @@
  {"bid":"bydmx.xyx",
  "auditState":1,
  "url":"https://m.soonyo.net/game/enter/id/1016.html?d=63",
+ "version":"1.0.1"},
+
+ {"bid":"com.xlqp.gq",
+ "auditState":0,
+ "url":"http://huanledao.92tianchen.com",
  "version":"1.0.1"}
  ]
